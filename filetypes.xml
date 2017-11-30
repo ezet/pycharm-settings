@@ -5,7 +5,6 @@
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
