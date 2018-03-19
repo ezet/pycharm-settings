@@ -1,3 +1,9 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <Python>
+    <option name="DICT_WRAPPING" value="5" />
+  </Python>
+  <codeStyleSettings language="Python">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
