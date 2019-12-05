@@ -1,0 +1,7 @@
+<templateSet group="Python Typing">
+  <template name="optional" value="Optional[$SELECTION$]" description="Surround with Optional" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
