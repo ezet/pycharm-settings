@@ -6,20 +6,6 @@
       <option name="WORKING_DIRECTORY" value="$Projectpath$" />
     </exec>
   </tool>
-  <tool name="Dynalite" description="Dynalite" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
-    <exec>
-      <option name="COMMAND" value="C:\Users\larsd\AppData\Roaming\npm\dynalite.cmd" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="DynamoDB Local" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Users\larsd\Development\Hoopit\dynamodb\dynamodb.cmd" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/larsd/Development/Hoopit/dynamodb" />
-    </exec>
-  </tool>
   <tool name="Black all" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$PyInterpreterDirectory$/Scripts/black.exe" />
@@ -31,6 +17,13 @@
     <exec>
       <option name="COMMAND" value="$PyInterpreterDirectory$/Scripts/black.exe" />
       <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Black" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PyInterpreterDirectory$/Scripts/pre-commit.exe" />
+      <option name="PARAMETERS" value="run black" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
