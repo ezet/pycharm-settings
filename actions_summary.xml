@@ -2,6 +2,22 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="CommentByLineComment">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581592492258" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorBackSpace">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581592489155" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorUp">
           <value>
             <ActionSummary>
@@ -18,10 +34,26 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoClass">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581592481373" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="JumpToLastWindow">
           <value>
             <ActionSummary>
               <option name="last" value="1581590669109" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="RunClass">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581592498049" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -53,8 +85,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581590637005" />
-              <option name="times" value="1" />
+              <option name="last" value="1581592484063" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
