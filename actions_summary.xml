@@ -69,16 +69,16 @@
         <entry key="com.intellij.execution.console.ConsoleExecuteAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581590709674" />
-              <option name="times" value="2" />
+              <option name="last" value="1581615052588" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.execution.console.ConsoleHistoryController$MyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581590708437" />
-              <option name="times" value="6" />
+              <option name="last" value="1581615051949" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
