@@ -53,8 +53,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581675266439" />
-              <option name="times" value="18" />
+              <option name="last" value="1581676422314" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581675236151" />
-              <option name="times" value="222" />
+              <option name="last" value="1581676428547" />
+              <option name="times" value="224" />
             </ActionSummary>
           </value>
         </entry>
@@ -263,6 +263,14 @@
             <ActionSummary>
               <option name="last" value="1581639633570" />
               <option name="times" value="13" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorStartNewLine">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581676427980" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +493,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581675243702" />
-              <option name="times" value="53" />
+              <option name="last" value="1581676315102" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +549,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581675278546" />
-              <option name="times" value="10" />
+              <option name="last" value="1581676431338" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
