@@ -21,8 +21,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581899285001" />
-              <option name="times" value="30" />
+              <option name="last" value="1581968266863" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +69,8 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581898614073" />
-              <option name="times" value="32" />
+              <option name="last" value="1581968136214" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="CommentByLineComment">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966350985" />
-              <option name="times" value="49" />
+              <option name="last" value="1581968514968" />
+              <option name="times" value="53" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966274533" />
-              <option name="times" value="165" />
+              <option name="last" value="1581968433580" />
+              <option name="times" value="168" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,16 +221,16 @@
         <entry key="EditorDeleteToWordStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1581965849217" />
-              <option name="times" value="670" />
+              <option name="last" value="1581967870661" />
+              <option name="times" value="671" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966434453" />
-              <option name="times" value="2002" />
+              <option name="last" value="1581968512239" />
+              <option name="times" value="2018" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="EditorRightWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581811286635" />
-              <option name="times" value="10" />
+              <option name="last" value="1581968219524" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966433012" />
-              <option name="times" value="1968" />
+              <option name="last" value="1581968512661" />
+              <option name="times" value="1970" />
             </ActionSummary>
           </value>
         </entry>
@@ -533,8 +533,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581958865264" />
-              <option name="times" value="13" />
+              <option name="last" value="1581968506870" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -749,8 +749,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966437157" />
-              <option name="times" value="209" />
+              <option name="last" value="1581968515598" />
+              <option name="times" value="210" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581965790386" />
-              <option name="times" value="3" />
+              <option name="last" value="1581967866181" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -845,8 +845,8 @@
         <entry key="Vcs.QuickListPopupAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581898613382" />
-              <option name="times" value="32" />
+              <option name="last" value="1581968135828" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,16 +901,16 @@
         <entry key="com.intellij.execution.console.ConsoleExecuteAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966445973" />
-              <option name="times" value="71" />
+              <option name="last" value="1581968529285" />
+              <option name="times" value="76" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.execution.console.ConsoleHistoryController$MyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966445491" />
-              <option name="times" value="141" />
+              <option name="last" value="1581968529000" />
+              <option name="times" value="150" />
             </ActionSummary>
           </value>
         </entry>
@@ -989,8 +989,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581960861945" />
-              <option name="times" value="108" />
+              <option name="last" value="1581968509234" />
+              <option name="times" value="109" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,8 +1117,8 @@
         <entry key="com.jetbrains.python.console.PydevConsoleRunnerImpl$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966306938" />
-              <option name="times" value="14" />
+              <option name="last" value="1581967864361" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -1133,8 +1133,8 @@
         <entry key="com.jetbrains.python.console.PydevConsoleRunnerImpl$RestartAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966440676" />
-              <option name="times" value="34" />
+              <option name="last" value="1581968524867" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
