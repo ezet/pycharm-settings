@@ -53,8 +53,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582030429216" />
-              <option name="times" value="40" />
+              <option name="last" value="1582037318560" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +525,8 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582031328148" />
-              <option name="times" value="89" />
+              <option name="last" value="1582037190362" />
+              <option name="times" value="90" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582022925512" />
-              <option name="times" value="20" />
+              <option name="last" value="1582037306299" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -1045,8 +1045,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582031330732" />
-              <option name="times" value="144" />
+              <option name="last" value="1582037307703" />
+              <option name="times" value="146" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,16 +1117,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582031433831" />
-              <option name="times" value="170" />
+              <option name="last" value="1582037192065" />
+              <option name="times" value="171" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1582031435224" />
-              <option name="times" value="104" />
+              <option name="last" value="1582037192237" />
+              <option name="times" value="105" />
             </ActionSummary>
           </value>
         </entry>
@@ -1221,8 +1221,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582030425445" />
-              <option name="times" value="28" />
+              <option name="last" value="1582037300097" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
