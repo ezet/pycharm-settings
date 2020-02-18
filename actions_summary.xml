@@ -45,8 +45,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581805940937" />
-              <option name="times" value="1" />
+              <option name="last" value="1582034765237" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582030866297" />
-              <option name="times" value="1177" />
+              <option name="last" value="1582034695167" />
+              <option name="times" value="1178" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1582031345734" />
-              <option name="times" value="774" />
+              <option name="last" value="1582034680540" />
+              <option name="times" value="775" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582025529984" />
-              <option name="times" value="249" />
+              <option name="last" value="1582034693919" />
+              <option name="times" value="250" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581989431080" />
-              <option name="times" value="44" />
+              <option name="last" value="1582034693489" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="SelectIn">
           <value>
             <ActionSummary>
-              <option name="last" value="1581958464312" />
-              <option name="times" value="2" />
+              <option name="last" value="1582034765924" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +829,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582027040915" />
-              <option name="times" value="864" />
+              <option name="last" value="1582034675411" />
+              <option name="times" value="867" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
           <value>
             <ActionSummary>
-              <option name="last" value="1581985923492" />
-              <option name="times" value="6" />
+              <option name="last" value="1582034711267" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1005,8 +1005,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581989432555" />
-              <option name="times" value="26" />
+              <option name="last" value="1582034681579" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
