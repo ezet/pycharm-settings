@@ -53,16 +53,16 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582060626781" />
-              <option name="times" value="46" />
+              <option name="last" value="1582063214689" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateVersionControlToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582059296522" />
-              <option name="times" value="4" />
+              <option name="last" value="1582063096522" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +101,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582062038366" />
-              <option name="times" value="101" />
+              <option name="last" value="1582063040723" />
+              <option name="times" value="102" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorDeleteToWordStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1582062028315" />
-              <option name="times" value="904" />
+              <option name="last" value="1582063056785" />
+              <option name="times" value="907" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,16 +501,16 @@
         <entry key="Github.Create.Pull.Request">
           <value>
             <ActionSummary>
-              <option name="last" value="1582052381642" />
-              <option name="times" value="20" />
+              <option name="last" value="1582063044626" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582061078911" />
-              <option name="times" value="21" />
+              <option name="last" value="1582063043194" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -893,8 +893,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582035798480" />
-              <option name="times" value="35" />
+              <option name="last" value="1582063126013" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
@@ -1061,16 +1061,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582061736326" />
-              <option name="times" value="159" />
+              <option name="last" value="1582063044622" />
+              <option name="times" value="160" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.ui.DialogWrapper$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1582030729724" />
-              <option name="times" value="46" />
+              <option name="last" value="1582063074962" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -1253,8 +1253,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$MergeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582022428711" />
-              <option name="times" value="9" />
+              <option name="last" value="1582063195903" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
