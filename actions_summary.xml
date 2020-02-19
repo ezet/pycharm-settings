@@ -93,8 +93,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582076275854" />
-              <option name="times" value="664" />
+              <option name="last" value="1582146412825" />
+              <option name="times" value="669" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582075961602" />
-              <option name="times" value="3162" />
+              <option name="last" value="1582146406160" />
+              <option name="times" value="3171" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +565,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582078040108" />
-              <option name="times" value="1059" />
+              <option name="last" value="1582146406337" />
+              <option name="times" value="1062" />
             </ActionSummary>
           </value>
         </entry>
