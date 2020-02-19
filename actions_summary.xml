@@ -197,8 +197,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582078250668" />
-              <option name="times" value="328" />
+              <option name="last" value="1582148265356" />
+              <option name="times" value="340" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1582076878141" />
-              <option name="times" value="2783" />
+              <option name="last" value="1582147703057" />
+              <option name="times" value="2799" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +429,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1582076180892" />
-              <option name="times" value="2610" />
+              <option name="last" value="1582147703621" />
+              <option name="times" value="2613" />
             </ActionSummary>
           </value>
         </entry>
@@ -469,8 +469,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582078251435" />
-              <option name="times" value="53" />
+              <option name="last" value="1582147692300" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582103342296" />
-              <option name="times" value="30" />
+              <option name="last" value="1582147698482" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +773,8 @@
         <entry key="Resume">
           <value>
             <ActionSummary>
-              <option name="last" value="1582103258475" />
-              <option name="times" value="496" />
+              <option name="last" value="1582147950285" />
+              <option name="times" value="499" />
             </ActionSummary>
           </value>
         </entry>
@@ -869,8 +869,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582077585489" />
-              <option name="times" value="1065" />
+              <option name="last" value="1582148750174" />
+              <option name="times" value="1066" />
             </ActionSummary>
           </value>
         </entry>
@@ -1133,8 +1133,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582103350356" />
-              <option name="times" value="184" />
+              <option name="last" value="1582147699697" />
+              <option name="times" value="186" />
             </ActionSummary>
           </value>
         </entry>
@@ -1245,8 +1245,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582103122289" />
-              <option name="times" value="85" />
+              <option name="last" value="1582148756864" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
