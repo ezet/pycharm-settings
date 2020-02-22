@@ -653,8 +653,8 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582326908218" />
-              <option name="times" value="144" />
+              <option name="last" value="1582333919010" />
+              <option name="times" value="145" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582329392286" />
-              <option name="times" value="64" />
+              <option name="last" value="1582333908634" />
+              <option name="times" value="65" />
             </ActionSummary>
           </value>
         </entry>
@@ -1189,8 +1189,8 @@
         <entry key="Vcs.ShowHistoryForBlock">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333290114" />
-              <option name="times" value="5" />
+              <option name="last" value="1582333935996" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -1437,8 +1437,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582331193420" />
-              <option name="times" value="324" />
+              <option name="last" value="1582333923771" />
+              <option name="times" value="326" />
             </ActionSummary>
           </value>
         </entry>
@@ -1557,8 +1557,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582330872640" />
-              <option name="times" value="279" />
+              <option name="last" value="1582333923579" />
+              <option name="times" value="281" />
             </ActionSummary>
           </value>
         </entry>
