@@ -29,8 +29,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332859582" />
-              <option name="times" value="355" />
+              <option name="last" value="1582334787615" />
+              <option name="times" value="357" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="CodeCompletion">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332824443" />
-              <option name="times" value="27" />
+              <option name="last" value="1582334800602" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,16 +205,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332873208" />
-              <option name="times" value="1710" />
+              <option name="last" value="1582334830026" />
+              <option name="times" value="1724" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332825254" />
-              <option name="times" value="293" />
+              <option name="last" value="1582334808953" />
+              <option name="times" value="295" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582330847029" />
-              <option name="times" value="358" />
+              <option name="last" value="1582334765517" />
+              <option name="times" value="360" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,24 +261,24 @@
         <entry key="EditorDeleteToWordEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1582330007502" />
-              <option name="times" value="247" />
+              <option name="last" value="1582334659121" />
+              <option name="times" value="248" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorDeleteToWordStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333132734" />
-              <option name="times" value="1170" />
+              <option name="last" value="1582334826418" />
+              <option name="times" value="1183" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332796246" />
-              <option name="times" value="3128" />
+              <option name="last" value="1582334788054" />
+              <option name="times" value="3129" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333131595" />
-              <option name="times" value="1047" />
+              <option name="last" value="1582334742235" />
+              <option name="times" value="1048" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332860761" />
-              <option name="times" value="329" />
+              <option name="last" value="1582334774078" />
+              <option name="times" value="333" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,8 +661,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332656730" />
-              <option name="times" value="1231" />
+              <option name="last" value="1582334587142" />
+              <option name="times" value="1232" />
             </ActionSummary>
           </value>
         </entry>
@@ -1037,8 +1037,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333128495" />
-              <option name="times" value="10" />
+              <option name="last" value="1582334656202" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -1069,8 +1069,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333205734" />
-              <option name="times" value="1293" />
+              <option name="last" value="1582334943655" />
+              <option name="times" value="1298" />
             </ActionSummary>
           </value>
         </entry>
@@ -1189,8 +1189,8 @@
         <entry key="Vcs.ShowHistoryForBlock">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333935996" />
-              <option name="times" value="6" />
+              <option name="last" value="1582334598398" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1301,16 +1301,16 @@
         <entry key="com.intellij.execution.console.ConsoleExecuteAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333148630" />
-              <option name="times" value="141" />
+              <option name="last" value="1582334835274" />
+              <option name="times" value="148" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.execution.console.ConsoleHistoryController$MyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333146992" />
-              <option name="times" value="218" />
+              <option name="last" value="1582334834684" />
+              <option name="times" value="224" />
             </ActionSummary>
           </value>
         </entry>
@@ -1613,16 +1613,16 @@
         <entry key="com.jetbrains.python.console.PyConsoleUtil$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332802191" />
-              <option name="times" value="14" />
+              <option name="last" value="1582334820941" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.jetbrains.python.console.PydevConsoleRunnerImpl$1ConsoleSplitLineAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582332865306" />
-              <option name="times" value="10" />
+              <option name="last" value="1582334786354" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -1645,16 +1645,16 @@
         <entry key="com.jetbrains.python.console.PydevConsoleRunnerImpl$RestartAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582333135963" />
-              <option name="times" value="50" />
+              <option name="last" value="1582334674406" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.jetbrains.python.console.PydevConsoleRunnerImpl$SoftWrapAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581630693865" />
-              <option name="times" value="8" />
+              <option name="last" value="1582334675687" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
