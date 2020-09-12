@@ -3,7 +3,7 @@
     <option name="myCopyOnSelection" value="false" />
     <option name="myPasteOnMiddleMouseButton" value="false" />
     <option name="myReportMouse" value="false" />
-    <option name="myShellPath" value="C:\Windows\System32\cmd.exe" />
+    <option name="myShellPath" value="cmd" />
     <option name="mySoundBell" value="false" />
   </component>
 </application>
