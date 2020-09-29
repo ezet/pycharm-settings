@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="all-debug" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_connect-cdn.atl-paas.net_all-debug.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_connect-cdn.atl-paas.net_all-debug.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
