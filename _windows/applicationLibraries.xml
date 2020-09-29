@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="@atlaskit/css-reset" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@atlaskit_css-reset@2.0.0_dist_bundle.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@atlaskit_css-reset@2.0.0_dist_bundle.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="all-debug" type="javaScript">
       <properties>
         <sourceFilesUrls>
