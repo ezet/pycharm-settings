@@ -4,10 +4,10 @@
     <extensionMap>
       <mapping pattern="init_svc_restapi" type="AUTO_DETECTED" />
       <mapping pattern=".flake8" type="Ini" />
-      <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
+      <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
