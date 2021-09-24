@@ -9,4 +9,14 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="_" value="from django.utils.translation import gettext as _" description="import gettext" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python_Top_Level" value="true" />
+    </context>
+  </template>
+  <template name="_lazy" value="from django.utils.translation import gettext_lazy as _" description="import gettext" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python_Top_Level" value="true" />
+    </context>
+  </template>
 </templateSet>
