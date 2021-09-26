@@ -5,11 +5,13 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*/en/**.po" />
+    <mask>*test*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
-    <mask>*test*</mask>
     <mask>*.py</mask>
+    <mask>*/en/**.po</mask>
   </component>
 </application>
