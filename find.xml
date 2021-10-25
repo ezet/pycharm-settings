@@ -8,12 +8,12 @@
     <option name="FILE_MASK" value="*.y*" />
     <mask>*test*</mask>
     <mask>*/en/**.po</mask>
+    <mask>secrets.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
-    <mask>secrets.yaml</mask>
     <mask>*.y*</mask>
   </component>
 </application>
