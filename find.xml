@@ -1,16 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="locale:no" />
-    <option name="defaultScopeName" value="locale:no" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="locale:no" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*test*</mask>
+    <mask>*/en/**.po</mask>
+    <mask>secrets.yaml</mask>
+    <mask>*.y*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
-    <mask>*/en/**.po</mask>
   </component>
 </application>
