@@ -16,5 +16,6 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
+    <mask>*view*.py</mask>
   </component>
 </application>
